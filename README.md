@@ -2,6 +2,7 @@
 
 Training and Upgrading Skills on How to use Git and Github
 Adding some more text for rebasing example.
+More changes from feature branch
 
 ## Introduction
 
