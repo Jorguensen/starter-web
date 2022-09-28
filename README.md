@@ -15,3 +15,7 @@ Showing off git skills to the company ^^
 Another change !
 
 ## How to Contribute
+
+### Copyright
+
+2022.Git.Training.
