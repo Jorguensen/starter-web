@@ -15,6 +15,7 @@ Showing off git skills to the company ^^
 Another change !
 
 ## How to Contribute
+Fork the repository and then issue a Pull Request.
 
 ### Copyright
 
