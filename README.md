@@ -8,6 +8,10 @@ New paragraph!
 
 ## Purpose 
 
+Showing off git skills to the company ^^
+
 ## Deployment
+
+Another change !
 
 ## How to Contribute
