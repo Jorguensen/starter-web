@@ -7,7 +7,7 @@ John Doe joe@whatever.com
 
 # THANKS
 
-    <name>
+   All my fans !
 
 # TECHNOLOGY COLOPHON
 
